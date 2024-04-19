@@ -176,4 +176,4 @@ Explanation:
 
 9. **Example Usage**: An example usage of the `recommend_fashion_items_uploaded` function is provided, where an image path is specified, and fashion items similar to the uploaded image are recommended.
 
-This code demonstrates how to build a fashion recommendation system using deep learning-based feature extraction and cosine similarity
+This code demonstrates how to build a fashion recommendation system using deep learning-based feature extraction and cosine similarity.
