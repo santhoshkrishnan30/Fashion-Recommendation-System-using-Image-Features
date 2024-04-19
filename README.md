@@ -14,7 +14,7 @@ A Fashion Recommendation System using Image Features aims to provide personalize
 - Extract features from fashion images and create a structured dataset of feature vectors.
 - Define a metric (e.g., cosine similarity) to measure the similarity between feature vectors.
 - Recommend top N fashion items similar to the input image based on feature similarities.
-- Visualize the input image and its recommended items for user interaction.
+- Visualize the input image and its recommended items for user interactions.
 
 ## Requirements
 
