@@ -1,5 +1,4 @@
 # Fashion-Recommendation-System-using-Image-Features
-
 This repository contains code to build a Fashion Recommendation System utilizing image features. The system leverages computer vision and machine learning techniques to analyze fashion items' visual aspects like color, texture, and style and recommend similar or complementary products to users.
 
 ## Overview
